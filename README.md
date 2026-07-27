@@ -11,6 +11,8 @@
 ###
 
 <h3 align="left">Espanhol - Nativo</h3>
+<h3 align="left">Português - Fluente</h3>
+<h3 align="left">Inglês - Técnico</h3>
 
 ###
 
@@ -77,17 +79,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelumiri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=pt-br&hide_border=true" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joelumiri&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true" height="140" alt="languages graph"  />
-</div>
-
-###
 
 <br clear="both">
 
